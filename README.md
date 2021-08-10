@@ -11,7 +11,8 @@ I used HTML, CSS, Webhint, and Stylelint.
 # Getting Started
  1) open command line
  2) write "git clone https://github.com/Ahmed-Alfaouq/Hello-Microverse.git"
- 3) Enjoy
+ 3) Or after closing the repo navigate to the index.html file and double click it to open it
+ 4) Enjoy
 # Prerequisites
 # Setup
 # Usage
