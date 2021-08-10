@@ -1,5 +1,7 @@
 # Hello Microverse
 It's my first project in my journey in Microverse
+![page image](/page.png)
+Format: ![Alt Text](url)
 I used HTML, CSS, Webhint, and Stylelint.
 
 # Build With
@@ -8,11 +10,19 @@ I used HTML, CSS, Webhint, and Stylelint.
  - Webhint
  - Stylelint
 # Getting Started
-**This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+ 1) open command line
+ 2) write "git clone https://github.com/Ahmed-Alfaouq/Hello-Microverse.git"
+ 3) Enjoy
+# Prerequisites
+# Setup
+# Usage
+# Run tests
+# Deployment
 # Authors
  :bearded_person: **Author 1**
   - Github: [@Ahmed-Alfarouq](https://github.com/Ahmed-Alfaouq)
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-omar912ba9199/)
+  - Twitter: [@twitter](https://twitter.com/mediocre23534)
 
 # :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
