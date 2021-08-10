@@ -9,8 +9,7 @@ It's my first project in my journey in Microverse
 
 # Authors
  :bearded_person: **Author 1**
-  - Github: http://github.com - automatic!
-[GitHub](http://github.com)
+  - Github: [@Ahmed-Alfarouq](https://github.com/Ahmed-Alfaouq)
 
 # :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
