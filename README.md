@@ -8,8 +8,9 @@ It's my first project in my journey in Microverse
  - Stylelint
 
 # Authors
- :bearded_person: Author 1
-  - Github: @Ahmed-Alfaouq
+ :bearded_person: **Author 1**
+  - Github: http://github.com - automatic!
+[GitHub](http://github.com)
 
 # :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
