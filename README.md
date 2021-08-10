@@ -1,7 +1,6 @@
 # Hello Microverse
 It's my first project in my journey in Microverse
 ![page image](/page.png)
-Format: ![Alt Text](url)
 I used HTML, CSS, Webhint, and Stylelint.
 
 # Build With
